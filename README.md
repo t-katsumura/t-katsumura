@@ -1,16 +1,16 @@
-### Hi there 👋
+### t-katsumura's profile
 
-<!--
-**t-katsumura/t-katsumura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :trophy: GitHub profile Trophy
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=t-katsumura&no-frame=true&margin-w=10)](https://github.com/t-katsumura)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :bar_chart: GitHub Stats
+
+[![t-katsumura's GitHub Status](https://github-readme-stats.vercel.app/api?username=t-katsumura&show_icons=true)](https://github.com/t-katsumura)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-katsumura&show_icons=true&langs_count=8&layout=compact)](https://github.com/t-katsumura)
+
+### :chart_with_upwards_trend: GitHub Streak
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=t-katsumura&theme=tokyonight_duo)](https://github.com/t-katsumura)
+
